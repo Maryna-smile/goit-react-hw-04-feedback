@@ -12,7 +12,6 @@ export const FeedbackOptions = ({ options, increment }) => {
           id={el}
           type="button"
           onClick={increment}
-          
         >
           {el}
         </button>
